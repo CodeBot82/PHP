@@ -2,7 +2,7 @@
 
 echo "<strong>Convierte una cadena de caracteres a minúsculas</strong><br><br>";
 
-$nombre = "ERICK VASQUEZ";
+$nombre = "CODEBOTS";
 
 $conversor = strtolower($nombre); 
 
